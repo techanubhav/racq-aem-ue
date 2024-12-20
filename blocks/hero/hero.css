@@ -1,6 +1,7 @@
 .hero-container .hero-wrapper {
   max-width: unset;
   padding: 0;
+  /* background: transparent linear-gradient(180deg, #1186c4 0, #45a7d9 40%, white 100%) 0 0 no-repeat padding-box; */
 }
 
 .hero {

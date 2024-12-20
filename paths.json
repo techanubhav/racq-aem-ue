@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/racq/:/",
-    "/content/racq/configuration:/.helix/config.json",
-    "/content/racq/metadata:/metadata.json"
+    "/content/racq-home/:/",
+    "/content/racq-home/configuration:/.helix/config.json",
+    "/content/racq-home/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/racq/"
+    "/content/racq-home/"
   ]
 }
